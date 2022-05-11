@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Wakatime Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C513%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C515%20hrs%2019%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 336 Contributions in the Year 2022
+> 🏆 342 Contributions in the Year 2022
  > 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
@@ -67,9 +67,9 @@ Windows                  19 hrs 33 mins      ███████████�
 **I Mostly Code in C#** 
 
 ```text
-C#                       55 repos            █████████████████░░░░░░░░   70.51% 
+C#                       56 repos            ██████████████████░░░░░░░   71.79% 
 JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
 Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
 Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
 
@@ -77,7 +77,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 13:41:28 UTC
+ Last Updated on 11/05/2022 18:49:53 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://app.daily.dev/MiguelPimenta"><img src="https://api.daily.dev/devcards/05b7ad917b6047f3b1368fb0fe084ad8.png?r=sx6" width="200" alt="Miguel Pimenta's Dev Card"/></a>
