@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 Wakatime Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C513%20hrs%2056%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15%20Thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C513%20hrs%2057%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 334 Contributions in the Year 2022
+> 🏆 336 Contributions in the Year 2022
  > 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
@@ -36,10 +34,10 @@ Wakatime Stats:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    16 commits     ████████░░░░░░░░░░░░░░░░░   34.78% 
-🌆 Daytime    22 commits     ████████████░░░░░░░░░░░░░   47.83% 
-🌃 Evening    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+🌞 Morning    16 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌆 Daytime    24 commits     ████████████░░░░░░░░░░░░░   50.0% 
+🌃 Evening    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
 ```
 
@@ -79,7 +77,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 13:31:36 UTC
+ Last Updated on 11/05/2022 13:41:28 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://app.daily.dev/MiguelPimenta"><img src="https://api.daily.dev/devcards/05b7ad917b6047f3b1368fb0fe084ad8.png?r=sx6" width="200" alt="Miguel Pimenta's Dev Card"/></a>
